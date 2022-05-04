@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue;
+}
+
+#input {
+    background-color: greenyellow;
+}
+
+p {
+    font-size: 24px;   
+}
+
+label {
+    font-size: 20px;
+}
